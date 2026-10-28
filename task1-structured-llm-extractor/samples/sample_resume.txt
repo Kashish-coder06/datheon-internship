@@ -1,0 +1,33 @@
+Eleanor Vance
+Seattle, Washington | eleanor.vance@example.dev | (206) 555-0147 | github.com/evance
+
+PROFESSIONAL SUMMARY
+Creative Full-Stack AI Engineer with 5 years of hands-on experience designing production machine learning pipelines, RESTful microservices, and modern web architectures.
+
+CORE COMPETENCIES & TECH STACK
+Languages: Python, TypeScript, SQL, Rust
+Frameworks: FastAPI, React, Next.js, PyTorch, LangChain
+Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, GitHub Actions, Terraform
+Databases: PostgreSQL, Pinecone, Redis
+
+CAREER HISTORY
+
+Senior Machine Learning Engineer | NeuralCore Dynamics, Seattle, WA
+March 2022 – Present
+- Spearheaded the design of an automated customer document processing system reducing review turnaround by 75%.
+- Integrated LLM embedding search via Pinecone to enable semantic document search for 50k daily active users.
+- Designed resilient batch inference workloads on AWS ECS saving $3,200 monthly cloud costs.
+
+Full-Stack Developer | Cascade Software Studio, Portland, OR
+July 2019 – February 2022
+- Built end-to-end analytics dashboards using Next.js and FastAPI powering real-time supply chain monitoring.
+- Standardized code quality via automated CI/CD workflows and increased test coverage to 92%.
+
+EDUCATION
+Bachelor of Science in Computer Science & Applied Mathematics
+University of Washington, Seattle, WA (2015 – 2019)
+GPA: 3.85 / 4.0
+
+LICENSES & CERTIFICATIONS
+- AWS Certified Machine Learning - Specialty
+- Deep Learning Specialization (DeepLearning.AI)

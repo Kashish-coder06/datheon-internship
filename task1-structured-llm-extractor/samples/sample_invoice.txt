@@ -1,0 +1,26 @@
+ACME SUPPLIES & HARDWARE CO.
+1084 Industrial Pkwy, Suite 400
+Dallas, TX 75201
+support@acmesupplies.com | Tel: +1 (214) 555-0199
+
+INVOICE STATEMENT
+Invoice Reference: INV-98421-B
+Date of Issue: November 12, 2024
+Due By: December 12, 2024
+
+Billed To:
+Apex Logistics International
+742 Evergreen Terrace, Springfield, OR
+accounting@apexlogistics.com
+
+Description of Goods / Services:
+- Heavy Duty Industrial Shelving Unit (Model X4) -> Qty: 4, Rate: $250.00 each -> Total: $1,000.00
+- Heavy Duty Forklift Pallet Jack -> Qty: 1, Rate: $750.00 each -> Total: $750.00
+- Standard On-site Freight & Handling -> Qty: 1, Rate: $150.00 -> Total: $150.00
+
+Financial Summary:
+Sub-Total: $1,900.00
+Special Corporate Discount: -$100.00
+Applicable Sales Tax (8.25%): $148.50
+Total Balance Payable: $1,948.50 USD
+Payment instructions: Wire transfer to ACME Corp Chase Account.
